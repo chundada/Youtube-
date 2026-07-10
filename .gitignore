@@ -16,7 +16,7 @@ build/
 .DS_Store
 Thumbs.db
 
-# Temp files used by fetch_transcript.py
+# Temp files from fetch_transcript.py
 .ytdlp_tmp_*
 .bili_tmp_*
 
